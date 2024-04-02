@@ -12,7 +12,6 @@ Maria Paula Mora:
 
 Juan Felipe Mora: 
 - Home page
-- Login and sign up
 - Profile
 - Navbar
 
